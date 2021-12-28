@@ -4,4 +4,4 @@
 JNI method call using Kotlin
 Display the count incremented on Button click from SDK (kotlin)
 
- ok
+ ok updated
